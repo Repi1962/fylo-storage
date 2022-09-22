@@ -78,7 +78,8 @@ body {
   padding: 3rem;
 }
 
-.indicator__used {
+.indicator__used,
+.indicator__storage-value {
   font-weight: 700;
 }
 
