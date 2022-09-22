@@ -128,10 +128,8 @@ body {
 .indicator__space-used {
   display: flex;
   justify-content: space-between;
-  font-weight: 700
+  font-weight: 700;
 }
-
-
 
 .remain {
   position: absolute;
@@ -165,6 +163,7 @@ body {
 }
 
 .remain__text {
+  margin-left: 0.5rem;
   text-transform: uppercase;
   font-weight: 700;
   color: var(--Grayish-Blue);
